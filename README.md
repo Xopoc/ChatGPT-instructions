@@ -1,7 +1,6 @@
 # ChatGPT Instructions Repository  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![View Instructions](https://img.shields.io/badge/View-Instructions-success)](https://raw.githubusercontent.com/Xopoc/ChatGPT-instructions/main/custom-instructions.txt)
-[![Copy Instructions](https://img.shields.io/badge/Copy-Instructions-blue)](https://raw.githubusercontent.com/Xopoc/ChatGPT-instructions/main/custom-instructions.txt)
 
 A reusable set of custom instructions intended for use with ChatGPT or any other large-language model.  
 The goal: provide a **clean, reliable, minimal**, copy-and-paste friendly instruction set that works in **any language**.
