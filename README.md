@@ -1,4 +1,5 @@
 # ChatGPT Instructions Repository
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A reusable set of custom instructions intended for use with ChatGPT or any other large-language model.  
 The goal: provide a **clear, minimal**, copy-and-paste friendly instruction set that works well in any context or language.
